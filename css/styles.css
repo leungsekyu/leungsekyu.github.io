@@ -25,5 +25,6 @@ h1 span {
 }
 
 h1 span:hover {
-  font-size: 7rem;
+  display: flex;
+  transform: scale(1.1);
 }
